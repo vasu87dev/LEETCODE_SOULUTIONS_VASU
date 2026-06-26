@@ -1,0 +1,53 @@
+class Solution {
+public:
+    struct Fenwick {
+        int n;
+        vector<int> bit;
+
+        Fenwick(int n) : n(n), bit(n + 1, 0) {}
+
+        void update(int idx) {
+            while (idx <= n) {
+                bit[idx]++;
+                idx += idx & -idx;
+            }
+        }
+
+        long long query(int idx) {
+            long long res = 0;
+            while (idx > 0) {
+                res += bit[idx];
+                idx -= idx & -idx;
+            }
+            return res;
+        }
+    };
+
+    long long countMajoritySubarrays(vector<int>& nums, int target) {
+        int n = nums.size();
+
+        vector<int> pref(n + 1, 0);
+        for (int i = 0; i < n; i++) {
+            pref[i + 1] = pref[i] + (nums[i] == target ? 1 : -1);
+        }
+
+        vector<int> comp = pref;
+        sort(comp.begin(), comp.end());
+        comp.erase(unique(comp.begin(), comp.end()), comp.end());
+
+        Fenwick bit(comp.size());
+
+        long long ans = 0;
+
+        for (int x : pref) {
+            int pos = lower_bound(comp.begin(), comp.end(), x) - comp.begin() + 1;
+
+            // Count previous prefix sums < current prefix sum
+            ans += bit.query(pos - 1);
+
+            bit.update(pos);
+        }
+
+        return ans;
+    }
+};
