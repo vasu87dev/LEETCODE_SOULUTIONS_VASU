@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
