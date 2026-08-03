@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
