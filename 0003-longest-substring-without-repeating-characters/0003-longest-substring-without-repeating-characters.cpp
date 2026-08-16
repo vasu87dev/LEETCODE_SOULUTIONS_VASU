@@ -8,12 +8,11 @@ public:
      unordered_map<char,int>hash;
      while(r<s.length())
      {
-            if(hash.count(s[r])==1)
+            if(hash.count(s[r])==1 && hash[s[r]] >= l)
             {
-                if(hash[s[r]]>=l)
-                {
+                
                 l=hash[s[r]]+1;
-                }
+                
             }
 
             hash[s[r]]=r;
