@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
