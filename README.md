@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
