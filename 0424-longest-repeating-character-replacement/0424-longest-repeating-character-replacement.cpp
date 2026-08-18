@@ -30,9 +30,10 @@ public:
             if((r-l+1)-maxf<=k)
             {
                 maxl=max(maxl,r-l+1);
+                r++;
                 
             }
-            r++;
+            
         }
 return maxl;
 
