@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -142,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
