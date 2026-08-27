@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
+| [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
