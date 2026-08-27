@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0485-max-consecutive-ones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
@@ -148,10 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
