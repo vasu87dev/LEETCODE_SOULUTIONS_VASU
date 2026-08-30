@@ -6,8 +6,8 @@ public:
         int minpos = min_element(nums.begin(), nums.end()) - nums.begin();
         int maxpos = max_element(nums.begin(), nums.end()) - nums.begin();
 
-        if (minpos > maxpos)
-            swap(minpos, maxpos);
+         if (minpos > maxpos)
+             swap(minpos, maxpos);
 
         // 1. Both from left
         int left = maxpos + 1;
