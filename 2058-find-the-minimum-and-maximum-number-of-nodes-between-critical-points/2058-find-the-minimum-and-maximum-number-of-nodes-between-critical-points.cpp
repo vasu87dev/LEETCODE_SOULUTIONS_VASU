@@ -12,9 +12,6 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
 
-vector<int>arr;
-        vector<int>hash;
-
 
 
 if (head == NULL || head->next == NULL || head->next->next == NULL)
@@ -26,35 +23,43 @@ if (head == NULL || head->next == NULL || head->next->next == NULL)
          ListNode* nest=current->next;
 
 
+        int pos = 1;
+        int first = -1;
+        int last = -1;
+        int minDist = INT_MAX;
 
-int count=1;
-         while(nest!=NULL)
+
+         while(nest)
          {
             if((previous->val<current->val && current->val>nest->val)|| (previous->val>current->val && current->val<nest->val))
             {
-                 hash.push_back(count);
-            
+                 if(first==-1)
+                 {
+                    first=pos;
+                 }
+                 else
+                 {
+                    minDist=min(minDist,pos-last);
+                 }
+                 last=pos;
             }
-            count++;
+         
+            
+            pos++;
             previous=current;
             current=nest;
             nest=nest->next;
          }
-            
-if (hash.size() < 2)
+
+
+     if (first == last)
             return {-1, -1};
 
-int min1=INT_MAX;
-for(int i=1;i<hash.size();i++)
-{
-min1=min(min1,hash[i]-hash[i-1]);
-}
-arr.push_back(min1);
 
-int a=hash[hash.size()-1]-hash[0];
-arr.push_back(a);
 
-return arr;
+
+
+        return {minDist, last - first};
          }
         
     
