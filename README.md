@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -168,9 +170,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
