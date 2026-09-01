@@ -1,33 +1,35 @@
 class Solution {
 private:
-bool bfs(vector<vector<int>>& graph,int i,vector<int>&colour,queue<int>q)
+bool dfs(vector<vector<int>>& graph,int i,vector<int>&colour)
 {
-    int node=i;
-   // vis[i]=1;
-    colour[i]=0;
-q.push(i);
-while(!q.empty())
-{
-int node=q.front();
-q.pop();
+int start=i;
 
-    for(auto it : graph[node])
+for(auto it: graph[start])
+{
+
+    if(colour[it]==-1)
     {
-        if( colour[it]==-1)
-        {
-            q.push(it);
-            colour[it]=!colour[node];
-        }
-
-        else if(colour[it]==colour[node])
+        colour[it]=!colour[start];
+        if(dfs(graph,it,colour)==false)
         {
             return false;
         }
     }
-}
-return true;
-}
+         else if(colour[it] == colour[start])
+        {
+            return false;
+        }
 
+    }
+
+return true;
+
+
+
+
+
+
+}
 public:
 
 
@@ -39,7 +41,7 @@ int m=graph.size();
 
 //vector<int>vis(m,0);
 vector<int>colour(m,-1);
-queue<int>q;
+//queue<int>q;
 for(int i=0;i<m;i++)
 {
     
@@ -47,7 +49,8 @@ for(int i=0;i<m;i++)
         if(colour[i]==-1)
         {
 
-            if(bfs(graph,i,colour,q)==false)
+colour[i]=0;
+            if(dfs(graph,i,colour)==false)
             {
                 return false;
             }
