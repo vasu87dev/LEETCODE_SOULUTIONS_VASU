@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
