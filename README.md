@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -201,8 +204,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
