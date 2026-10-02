@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
