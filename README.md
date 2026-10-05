@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1631-path-with-minimum-effort) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1631-path-with-minimum-effort) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
