@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1631-path-with-minimum-effort) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
