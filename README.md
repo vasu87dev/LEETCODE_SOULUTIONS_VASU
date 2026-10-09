@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0802-find-eventual-safe-states) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0994-rotting-oranges) |
@@ -206,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1319-number-of-operations-to-make-network-connected) |
