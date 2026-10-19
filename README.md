@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
+| [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1631-path-with-minimum-effort) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Union-Find
 |  |
