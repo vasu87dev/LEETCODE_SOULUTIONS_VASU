@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
+| [0771-jewels-and-stones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
+| [0771-jewels-and-stones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
