@@ -1,28 +1,25 @@
+
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
 
-        unordered_map<char,int>s1;
-                unordered_map<char,int>s2;
-                int i=0,k=0;
-                for(int i = 0; i < ransomNote.size(); i++)
+        vector<int> hash(26, 0);
+
+        for(int i = 0; i < magazine.size(); i++)
         {
-            s1[ransomNote[i]]++;
+            hash[magazine[i] - 'a']++;
         }
 
-        for(int k = 0; k < magazine.size(); k++)
+        for(int i = 0; i < ransomNote.size(); i++)
         {
-            s2[magazine[k]]++;
-        }
-                for(int j=0;j<ransomNote.size();j++)
-                {
-                    if(s1[ransomNote[j]]>s2[ransomNote[j]])
-                    {
-                      return false;
-                    }
-                }
-return true;
+            if(hash[ransomNote[i] - 'a'] == 0)
+            {
+                return false;
+            }
 
-        
+            hash[ransomNote[i] - 'a']--;
+        }
+
+        return true;
     }
 };
