@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Union-Find
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
