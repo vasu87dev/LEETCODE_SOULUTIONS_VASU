@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/4065-rearrange-array-by-removing-distinct-values) |
