@@ -3,6 +3,8 @@ public:
 
 int sum(int n)
 {
+
+    
     int sum=0;
     for(int temp=n;temp!=0;temp=temp/10)
     {
@@ -14,20 +16,23 @@ int sum(int n)
 
 
     bool isHappy(int n) {
-
+set<int>s;
         int sum2=sum(n);
+        
 int cny=0;
-        while(cny<1000)
+        while(!s.contains(sum2))
         {
+            s.insert(sum2);
         if(sum2==1)
         {
             return true;
         }
+       
         else
         {
             sum2=sum(sum2);
         }
-        cny++;
+        
         }
         return false;
     }
