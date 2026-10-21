@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0383-ransom-note) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0721-accounts-merge](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0721-accounts-merge) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -325,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
