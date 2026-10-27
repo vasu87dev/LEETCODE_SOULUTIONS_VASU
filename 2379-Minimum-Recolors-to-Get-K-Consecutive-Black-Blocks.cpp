@@ -1,30 +1,23 @@
 class Solution {
 public:
-    int minimumRecolors(string blocks, int k) {
-        int count = 0;
+    int minimumRecolors(string blocks, int k) {  
+   vector<int>hash(256,0);
+int mini=INT_MAX;
+int s=0;
+int l=0;
+while(l<blocks.size())
+{
+hash[blocks[l]-'A']++;
+if(hash['B'-'A']+hash['W'-'A']==k)
+{
+    mini=min(mini,hash['W'-'A']);
+    hash[blocks[s]-'A']--;
+    s++;
+    
+}
+l++;
+}
 
-        // Count white blocks in the first window
-        for (int i = 0; i < k; i++) {
-            if (blocks[i] == 'W') {
-                count++;
-            }
-        }
-
-        int ans = count;
-
-        // Slide the window
-        for (int i = k; i < blocks.size(); i++) {
-            if (blocks[i] == 'W') {
-                count++;
-            }
-
-            if (blocks[i - k] == 'W') {
-                count--;
-            }
-
-            ans = min(ans, count);
-        }
-
-        return ans;
+return mini;
     }
 };
