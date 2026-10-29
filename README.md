@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0130-surrounded-regions) |
 | [0219-contains-duplicate-ii](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0268-missing-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasu87dev/LEETCODE_SOULUTIONS_VASU/tree/master/0787-cheapest-flights-within-k-stops) |
